@@ -1,0 +1,1166 @@
+/* Медиа запрос: для экранов с шириной до 1140px */
+@media (max-width: 1140px) {
+
+}
+
+/* Медиа запрос: для экранов с шириной до 1086px */
+@media (max-width: 1086px) {
+    /* FOR index.html */
+    .phone {
+        font-size: 12px;
+    }
+
+    .buttom>a {
+    font-size: 20px;
+    }
+
+    .container {
+    font-size: 15px;
+    }
+
+
+    /* FOR page2.html */
+    .product>img {
+        width: 260px;
+    }
+
+    .catalog-info {
+        font-size: 14px;
+    }
+    /* FOR page3.html */
+    .uslugi-info>img {
+        width: 260px;
+    }
+
+    .uslugi-info>.text {
+        width: 280px;
+    }
+
+    /* FOR page4.html */
+    /* FOR page5.html */
+    /* FOR soglasie.html */
+    .info>h2 {
+        font-size: 18px;
+    }
+}
+
+/* Медиа запрос: для экранов с шириной до 956px */
+@media (max-width: 956px) {
+    /* FOR page2.html */
+    .product>img {
+        width: 280px;
+    }
+
+    .product>.text {
+        width: 280px;
+        font-size: 15px;
+    }
+
+    .product>.text>.buttom>a {
+        font-size: 15px;
+    }
+
+    /* FOR page3.html */
+    .price-info>h2 {
+        font-size: 18px;
+    }
+
+    .catalog-info>h3 {
+        font-size: 18px;
+    }
+
+    .prise_usl>.uslugi-info>img {
+        width: 300px;
+    }
+
+    .uslugi-info>.text {
+        width: 250px;
+        font-size: 13px;
+    }
+
+    .photo_prise>img {
+        display: flex;
+        justify-content: center;
+    }
+
+    /* FOR page4.html */
+    /* FOR page5.html */
+}
+
+/* Медиа запрос: для экранов с шириной до 885px */
+@media (max-width: 885px) {
+    /* FOR page3.html */
+    .prise_usl>.uslugi-info>img {
+        width: 290px;
+    }
+
+    .uslugi-info>.text {
+        width: 240px;
+        font-size: 12px;
+    }
+
+    .photo_prise>img {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+/* Медиа запрос: для экранов с шириной до 838px */
+@media (max-width: 838px) {
+
+    /* FOR index.html */
+    .logo>img {
+        height: 70px;
+    }
+
+    .phone {
+        font-size: 12px;
+    }
+
+    .info_conteiner>img {
+        height: 70px;
+    }
+
+    .container {
+        font-size: 13px;
+    }
+     
+    
+    /* FOR page2.html */
+
+    .product>img {
+        width: 250px;
+    }
+
+    .product>.text {
+        width: 250px;
+        font-size: 13px;
+    }
+
+    .product>.text>.buttom>a {
+        font-size: 13px;
+    }
+
+    /* FOR page3.html */
+    .photo_prise>img {
+        width: 500px;
+        height: 750px;
+    }
+
+    /* FOR page4.html */
+    /* FOR page5.html */
+    .info>h2 {
+        font-size: 17px;
+    }
+    .map_yandex {
+        width: 732px;
+        height: 469px;
+    }
+
+    /* FOR soglasie.html */
+    
+    .bottom>a {
+        font-size: 15px;
+    }
+}
+
+/* Медиа запрос: для экранов с шириной до 793px */
+@media (max-width: 793px) {
+    /* FOR page3.html */
+    .prise_usl>.uslugi-info>img {
+        width: 400px;
+    }
+
+    .prise_usl>.uslugi-info>.text {
+        width: 400px;
+    }
+}
+
+/* Медиа запрос: для экранов с шириной до 769px */
+@media (max-width: 769px) {
+
+    /* FOR index.html */
+    .logo>div>h3 {
+        font-size: 15px;
+    }
+
+    .logo>div>span {
+        font-size: 15px;
+    }
+
+    .phone>img {
+        width: 19px;
+    }
+
+    .buttom>a {
+        font-size: 15px;
+        }
+    
+    .info>.info_conteiner>p {
+        font-size: 12px;
+    }
+
+    .container {
+        font-size: 10px;
+    }
+
+    .logo_2>img {
+        height: 50px;
+    }
+
+    .logo_2 {
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+
+    .logo_2 {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    
+    /* FOR page2.html */
+    .catalog-info {
+        font-size: 12px;
+    }
+
+    .product>img {
+        width: 200px;
+    }
+
+    .product>.text {
+        width: 230px;
+        font-size: 12px;
+    }
+
+    .product>.text>.buttom>a {
+        font-size: 13px;
+    }
+
+    /* FOR page3.html */
+    /* FOR page4.html */
+    .summ-info>h2 {
+    font-size: 19px;
+    }
+
+    input,
+textarea {
+    border-radius: 4px;
+    font-size: 17px;
+}
+
+select,
+textarea {
+    border-radius: 3px;
+    font-size: 17px;
+}
+    /* FOR page5.html */
+    .contacts-info {
+        font-size: 13px;
+    }
+
+    .map_yandex {
+        width: 602px;
+        height: 429px;
+    }
+
+    .info>.contacts-info>img {
+        width: 40px;
+    }
+
+    .info>.contacts-info>.info-text>h3 {
+        font-size: 17px;
+    }
+
+    /* FOR soglasie.html */
+    .info>h2 {
+        font-size: 16px;
+    }
+}
+
+/* Медиа запрос: для экранов с шириной до 670px */
+@media (max-width: 670px) {
+    /* FOR page2.html */
+    .product>img {
+        width: 200px;
+    }
+
+    .product>.text {
+        width: 200px;
+        font-size: 11px;
+    }
+
+    .product>.text>.buttom>a {
+        font-size: 12px;
+    }
+
+    /* FOR page3.html */
+    .prise_usl>.uslugi-info>img {
+        width: 350px;
+    }
+
+    .prise_usl>.uslugi-info>.text {
+        width: 350px;
+    }
+    /* FOR page4.html */
+    /* FOR page5.html */
+}
+
+/* Медиа запрос: для экранов с шириной до 620px */
+@media (max-width: 620px) {
+
+    /* FOR index.html */
+    .all {
+        width: 100%;
+    }
+
+    .logo>img {
+        height: 40px;
+    }
+
+    .phone>img {
+        width: 10px;
+    }
+
+    .menu {
+    flex-direction: column;
+    }
+
+    .menu>a {
+        font-size: 17px;
+    }
+
+    .photos>.photo1>img {
+        height: 170px;
+    }
+
+    .photos>.photo2>img {
+        height: 150px;
+    }
+
+    .photo1_text>h4 {
+    padding-top: 5px;
+    font-size: 14px;
+    }
+
+    .logo>div>h3 {
+        font-size: 12px;
+    }
+
+    .logo>div>span {
+        font-size: 12px;
+    }
+
+    .buttom>a {
+        font-size: 10px;
+        }
+    
+    .info>.info_conteiner>p {
+        font-size: 8px;
+    }
+
+    .info>.info_conteiner>img {
+        width: 50px;
+    }
+
+    .work-container>div {
+        font-size: 10px;
+    }
+
+    .work-number {
+        font-size: 10px;
+    }
+
+    .upward {
+        position: fixed;
+        bottom: 40px;
+        right: 70px;
+        width: 70px;
+        height: 70px; 
+    }
+
+    .circle {
+        width: 20px;
+        height: 20px;
+        line-height: 20px; 
+    }
+
+    .work-number {
+        flex-direction: column;
+        padding: 2px;
+    }
+
+    .text_work {
+        width: 80%;
+        padding: 5px;
+        font-size: 15px;
+    }
+    
+    .text_work2 {
+        width: 80%;
+        padding: 5px;
+        font-size: 15px;
+    }
+
+    .container>h1 {
+        font-size: 14px;
+    }
+
+    .container>h3 {
+        font-size: 10px;
+    }
+
+    
+    /* FOR page2.html */
+    .catalog-info {
+        font-size: 11px;
+    }
+
+    .product>img {
+        width: 250px;
+        padding-left: 15%;
+    }
+
+    .product>.text {
+        width: 350px;
+        font-size: 13px;
+    }
+
+    .product>.text>.buttom>a {
+        font-size: 13px;
+    }
+
+    /* FOR page3.html */
+    /* FOR page4.html */
+    .summ-info>h2 {
+        font-size: 17px;
+        }
+    
+        input,
+    textarea {
+        border-radius: 4px;
+        font-size: 15px;
+    }
+    
+    select,
+    textarea {
+        border-radius: 3px;
+        font-size: 15px;
+    }
+    /* FOR page5.html */
+    .map_yandex {
+        width: 542px;
+        height: 429px;
+    }
+
+    .info>.contacts-info>img {
+        width: 25px;
+    }
+
+    .info>.contacts-info>.info-text>h3 {
+        font-size: 13px;
+    }
+
+    /* FOR soglasie.html */
+    .info>h2 {
+        font-size: 14px;
+
+    }
+}
+
+/* Медиа запрос: для экранов с шириной до 565px */
+@media (max-width: 565px) {
+
+    /* FOR index.html */
+    .all {
+        width: 100%;
+    }
+
+    .logo>img {
+        height: 40px;
+    }
+
+    .phone>img {
+        width: 10px;
+    }
+
+    .menu {
+    flex-direction: column;
+    }
+
+    .menu>a {
+        font-size: 17px;
+    }
+
+    .photos>.photo1>img {
+        height: 170px;
+    }
+
+    .photos>.photo2>img {
+        height: 150px;
+    }
+
+    .photo1_text>h4 {
+    padding-top: 5px;
+    font-size: 14px;
+    }
+
+    .logo>div>h3 {
+        font-size: 12px;
+    }
+
+    .logo>div>span {
+        font-size: 12px;
+    }
+
+    .buttom>a {
+        font-size: 10px;
+        }
+    
+    .info>.info_conteiner>p {
+        font-size: 8px;
+    }
+
+    .info>.info_conteiner>img {
+        width: 50px;
+    }
+
+    .work-container>div {
+        font-size: 10px;
+    }
+
+    .work-number {
+        font-size: 10px;
+    }
+
+    .upward {
+        position: fixed;
+        bottom: 40px;
+        right: 70px;
+        width: 70px;
+        height: 70px; 
+    }
+
+    .circle {
+        width: 20px;
+        height: 20px;
+        line-height: 20px; 
+    }
+
+    .work-number {
+        flex-direction: column;
+        padding: 2px;
+    }
+
+    .text_work {
+        width: 80%;
+        padding: 5px;
+        font-size: 15px;
+    }
+    
+    .text_work2 {
+        width: 80%;
+        padding: 5px;
+        font-size: 15px;
+    }
+
+    .container>h1 {
+        font-size: 14px;
+    }
+
+    .container>h3 {
+        font-size: 10px;
+    }
+    
+    
+    /* FOR page2.html */
+    .product>img {
+        width: 210px;
+    }
+
+    .product>.text {
+        width: 300px;
+    }
+
+    /* FOR page3.html */
+    .prise_usl>.uslugi-info>img {
+        width: 300px;
+    }
+    
+    .prise_usl>.uslugi-info>.text {
+        width: 300px;
+    }
+
+    .photo_prise>img {
+        width: 350px;
+        height: 550px;
+    }
+    /* FOR page4.html */
+    input,
+    textarea {
+        border-radius: 4px;
+        font-size: 12px;
+    }
+    
+    select,
+    textarea {
+        border-radius: 3px;
+        font-size: 12px;
+    }
+
+    .row>label {
+        font-size: 14px;
+    }
+
+    .form>form>label {
+        font-size: 14px;
+    }
+
+    .dop_info {
+        width: 300px;
+        height: 100px;
+    }
+
+    /* FOR page5.html */
+    .contacts-info {
+        font-size: 10px;
+    }
+
+    .map_yandex {
+        width: 400px;
+        height: 429px;
+    }
+
+    .info>.contacts-info>img {
+        width: 20px;
+    }
+
+    .info>.contacts-info>.info-text>h3 {
+        font-size: 13px;
+    }
+
+    /* FOR soglasie.html */
+    .info>h2 {
+        padding-left: 20px;
+        font-size: 17px;
+    }
+}
+
+/* Медиа запрос: для экранов с шириной до 500px */
+@media (max-width: 500px) {
+    /* FOR page2.html */
+    .product>img {
+        width: 200px;
+    }
+
+    .product>.text {
+        width: 250px;
+        font-size: 10px;
+    }
+
+    .product>.text>.buttom>a {
+        font-size: 10px;
+    }
+
+    /* FOR page3.html */
+    .prise_usl>.uslugi-info>img {
+        width: 270px;
+    }
+    
+    .prise_usl>.uslugi-info>.text {
+        width: 270px;
+        font-size: 10px;
+    }
+
+    .photo_prise>img {
+        width: 300px;
+        height: 500px;
+    }
+
+    /* FOR page4.html */
+    input,
+    textarea {
+        font-size: 11px;
+    }
+    
+    select,
+    textarea {
+        font-size: 12px;
+    }
+
+    .row>label {
+        font-size: 13px;
+    }
+
+    .form>form>label {
+        font-size: 13px;
+    }
+
+    .bottom>input {
+        font-size: 19px;
+    }
+}
+
+/* Медиа запрос: для экранов с шириной до 460px */
+@media (max-width: 460px) {
+
+    /* FOR index.html */
+.all {
+    width: 105%;
+}
+
+    .logo>div>h3 {
+        font-size: 10px;
+    }
+
+    .logo>div>span {
+        font-size: 10px;
+    }
+
+    .menu>a {
+        font-size: 10px;
+    }
+
+    .intro_content>.container>h1 {
+        font-size: 10px;
+    }
+
+    .intro_content>.container>h3 {
+        font-size: 7px;
+    }
+
+    .intro_content>.buttom>a {
+        font-size: 9px;
+    }
+
+    
+    /* FOR page2.html */
+    .catalog-info {
+        font-size: 10px;
+    }
+
+    .product>img {
+        width: 200px;
+    }
+
+    .product>.text {
+        width: 240px;
+        font-size: 11px;
+    }
+
+    .product>.text>.buttom>a {
+        font-size: 11px;
+    }
+    /* FOR page3.html */
+    .price-info>h2 {
+        font-size: 13px;
+    }
+
+    .catalog-info>h3 {
+        font-size: 12px;
+    }
+    .prise_usl>.uslugi-info>img {
+        width: 250px;
+    }
+    
+    .prise_usl>.uslugi-info>.text {
+        width: 250px;
+        font-size: 8px;
+    }
+
+    .photo_prise>img {
+        width: 300px;
+        height: 500px;
+    }
+
+    /* FOR page4.html */
+    .summ-info>h2 {
+        font-size: 15px;
+    }
+
+    input,
+    textarea {
+        font-size: 10px;
+    }
+    
+    select,
+    textarea {
+        font-size: 10px;
+    }
+
+    .row>label {
+        font-size: 12px;
+    }
+
+    .form>form>label {
+        font-size: 12px;
+    }
+
+    .bottom>input {
+        font-size: 15px;
+    }
+
+    /* FOR page5.html */
+    /* FOR soglasie.html */
+}
+
+/* Медиа запрос: для экранов с шириной до 402px */
+@media (max-width: 402px) {
+
+    /* FOR index.html */
+    .all {
+        width: 110%;
+    }
+    
+    /* FOR page2.html */
+    .catalog-info {
+        font-size: 10px;
+    }
+
+    .product>img {
+        width: 170px;
+    }
+
+    .product>.text {
+        width: 220px;
+        font-size: 11px;
+    }
+
+    .product>.text>.buttom>a {
+        font-size: 12px;
+    }
+    /* FOR page3.html */
+    .prise_usl>.uslugi-info>img {
+        width: 220px;
+    }
+    
+    .prise_usl>.uslugi-info>.text {
+        width: 220px;
+        font-size: 8px;
+    }
+
+    .photo_prise>img {
+        width: 300px;
+        height: 500px;
+    }
+
+    /* FOR page4.html */
+    /* FOR page5.html */
+    .contacts-info {
+        font-size: 8px;
+    }
+
+    .map_yandex {
+        width: 340px;
+        height: 370px;
+    }
+
+    .info>.contacts-info>img {
+        width: 17px;
+    }
+
+    .info>.contacts-info>.info-text>h3 {
+        font-size: 10px;
+    }
+
+    /* FOR soglasie.html */
+}
+
+/* Медиа запрос: для экранов с шириной до 376px */
+@media (max-width: 376px) {
+
+    /* FOR index.html */
+    .all {
+        width: 100%;
+    }
+
+    .logo>img {
+        height: 30px;
+    }
+
+    .phone>img {
+        width: 10px;
+    }
+
+    .logo>.phone>h3 {
+        font-size: 7px;
+    }
+
+
+    .menu>a {
+        font-size: 10px;
+    }
+
+    .photos>.photo1>img {
+        height: 120px;
+        padding: 10%;
+    }
+
+    .photos>.photo2>img {
+        height: 120px;
+        padding: 10%;
+    }
+
+    .photo1_text>h4 {
+        padding-top: 10px;
+        padding-right: 10px;
+    font-size: 11px;
+    }
+
+    .photo2_text {
+        font-size: 12px;
+    }
+
+    .logo>div>h3 {
+        font-size: 8px;
+    }
+
+    .logo>div>span {
+        font-size: 8px;
+    }
+
+    .buttom>a {
+        font-size: 8px;
+        }
+    
+    .info>.info_conteiner>p {
+        font-size: 8px;
+    }
+
+    .info>.info_conteiner>img {
+        width: 40px;
+    }
+
+    .upward {
+        position: fixed;
+        bottom: 10px;
+        right: 40px;
+        width: 50px;
+        height: 50px; 
+    }
+
+    .end {
+        font-size: 10px;
+    }
+
+    .end>img {
+        width: 15px;
+    }
+    
+    /* FOR page2.html */
+    .catalog-info {
+        font-size: 10px;
+    }
+
+    .product>img {
+        width: 150px;
+    }
+
+    .product>.text {
+        width: 170px;
+        font-size: 10px;
+    }
+
+    .product>.text>.buttom>a {
+        font-size: 11px;
+    }
+    /* FOR page3.html */
+    .prise_usl {
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+
+    .prise_usl>.uslugi-info>img {
+        width: 200px;
+    }
+    
+    .prise_usl>.uslugi-info>.text {
+        width: 200px;
+        font-size: 7px;
+    }
+
+    .photo_prise>img {
+        width: 250px;
+        height: 450px;
+    }
+
+    /* FOR page4.html */
+    .form>form>select {
+        width: 150px;
+    }
+
+    .summ-info>h2 {
+        font-size: 13px;
+    }
+
+    input,
+    textarea {
+        font-size: 13px;
+    }
+    
+    select,
+    textarea {
+        font-size: 9px;
+    }
+
+    .dop_info {
+        width: 200px;
+    }
+
+    .row>label {
+        font-size: 12px;
+    }
+
+    .form>form>label {
+        font-size: 12px;
+    }
+
+    .bottom>input {
+        font-size: 15px;
+    }
+
+    .rule>label {
+        font-size: 15px;
+    }
+
+    /* FOR page5.html */
+    .map_yandex {
+        width: 270px;
+        height: 330px;
+    }
+
+    .info>.contacts-info>.info-text>h3 {
+        font-size: 8px;
+    }
+
+    /* FOR soglasie.html */
+    .info>h2 {
+        font-size: 15px;
+    }
+
+    .bottom {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .bottom>a {
+        font-size: 14px;
+    }
+}
+
+/* Медиа запрос: для экранов с шириной до 358 */
+@media (max-width: 358px) {
+
+    /* FOR index.html */
+.all {
+    width: 100%;
+}  
+.intro_content>.buttom>a {
+    font-size: 8px;
+} 
+    /* FOR page2.html */
+    .catalog-info {
+        font-size: 8px;
+    }
+
+    .product>img {
+        width: 130px;
+    }
+
+    .product>.text {
+        width: 160px;
+        font-size: 10px;
+    }
+
+    .product>.text>.buttom>a {
+        font-size: 11px;
+    }
+    /* FOR page3.html */
+    /* FOR page4.html */
+    /* FOR page5.html */
+    /* FOR soglasie.html */
+    .info>h2 {
+        font-size: 13px;
+    }
+
+    .info>p {
+        font-size: 12px;
+    }
+}
+
+/* Медиа запрос: для экранов с шириной до 325px */
+@media (max-width: 325px) {
+
+    /* For index.html */
+
+.intro_content>.container>h1 {
+font-size: 10px;
+}
+
+.intro_content>.container>h3 {
+    font-size: 7px;
+}
+
+.intro_content>.buttom>a {
+    font-size: 5px;
+}
+
+.circle {
+    width: 15px;
+    height: 15px;
+    line-height: 15px; 
+}
+
+
+.work-container>div {
+    font-size: 8px;
+}
+
+.work-number>.text_work {
+    font-size: 9px;
+}
+
+.work-number>.text_work2 {
+    font-size: 9px;
+}
+
+    /* FOR page2.html */
+    .catalog-info {
+        font-size: 8px;
+    }
+
+    .product>img {
+        width: 110px;
+    }
+
+    .product>.text {
+        width: 140px;
+        font-size: 9px;
+    }
+
+    .product>.text>.buttom>a {
+        font-size: 10px;
+    }
+    /* FOR page3.html */
+    .prise_usl>.uslugi-info>.text {
+        width: 170px;
+        font-size: 8px;
+    }
+
+    /* FOR page4.html */
+    /* FOR page5.html */
+    .map_yandex {
+        width: 200px;
+        height: 270px;
+    }
+
+    .info>.contacts-info>img {
+        width: 13px;
+    }
+
+    .info>.contacts-info>.info-text>h3 {
+        font-size: 7px;
+    }
+    
+    /* FOR soglasie.html */
+
+}
